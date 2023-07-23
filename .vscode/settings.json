@@ -1,3 +1,4 @@
 {
-    "dotnet.defaultSolution": "App/wip/08/after/Transactions.App/Transactions.App.sln"
+    "dotnet.defaultSolution": "App/wip/08/after/Transactions.App/Transactions.App.sln",
+    "FSharp.inlayHints.typeAnnotations": false
 }

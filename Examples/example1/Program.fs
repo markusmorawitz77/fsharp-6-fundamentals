@@ -1,3 +1,4 @@
-﻿System.Console.Write("Enter Value: ")
-let x = System.Console.ReadLine()
+﻿open System
+printf "Enter Value: "
+let x = Console.ReadLine()
 printfn "You entered %s" x
